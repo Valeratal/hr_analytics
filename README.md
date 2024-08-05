@@ -10,3 +10,6 @@
 
 [Обзор рынка труда позиции "Юрист" (Москва)](https://hr-portal.ru/story/obzor-rynka-truda-pozicii-yurist-moskva)
 
+Применение линейной регрессии
+
+[Расчет премиальной части с помощью линейной регрессии](https://hr-portal.ru/blog/raschet-premialnoy-chasti-s-pomoshchyu-lineynoy-regressii)
